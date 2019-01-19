@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/youre_sick.wav-c3b7640d672c8a4fc6f448bdc02df857.sample"
+
+[deps]
+
+source_file="res://youre_sick.wav"
+dest_files=[ "res://.import/youre_sick.wav-c3b7640d672c8a4fc6f448bdc02df857.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0
